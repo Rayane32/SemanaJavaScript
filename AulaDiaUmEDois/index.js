@@ -139,6 +139,7 @@ for (var i in meuCarro)
 
 const amigoos = [ 'lucas', 'marcio', 'leticia'];
 for (let a of amigoos)
+//com o "of" em vez de "in" mostrará apenas os valores
 console.log(a)
 //só com isso mostrará os valores dentro do array.
 
